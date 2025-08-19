@@ -1,1 +1,2 @@
-# Restauran
+# Restauran Landing Page
+## Requirments:
